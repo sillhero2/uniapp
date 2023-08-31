@@ -1,0 +1,20 @@
+.indexWarp .banners.data-v-83a5a03c {
+  width: 100%;
+  height: 300rpx;
+}
+.indexWarp .banners image.data-v-83a5a03c {
+  width: 100%;
+  height: 100%;
+}
+.indexWarp .categoryList .categoryItem.data-v-83a5a03c {
+  width: 20%;
+  margin: 20px 0;
+  align-items: center;
+}
+.indexWarp .categoryList .categoryItem image.data-v-83a5a03c {
+  width: 72rpx;
+  height: 72rpx;
+}
+.indexWarp .categoryList .categoryItem text.data-v-83a5a03c {
+  font-size: 26rpx;
+}
